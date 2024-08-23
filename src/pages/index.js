@@ -31,7 +31,7 @@ export default function Home() {
   const products = [
     {
       id: 1,
-      imageSrc: "/images/img-01.jpg",
+      imageSrc: "/images/img-01.png",
       title: "product01",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -39,7 +39,7 @@ export default function Home() {
     },
     {
       id: 2,
-      imageSrc: "/images/img-02.jpg",
+      imageSrc: "/images/img-02.png",
       title: "product02",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -47,7 +47,7 @@ export default function Home() {
     },
     {
       id: 3,
-      imageSrc: "/images/img-03.jpg",
+      imageSrc: "/images/img-03.png",
       title: "product03",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -55,7 +55,7 @@ export default function Home() {
     },
     {
       id: 4,
-      imageSrc: "/images/img-04.jpg",
+      imageSrc: "/images/img-04.png",
       title: "product04",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -63,7 +63,7 @@ export default function Home() {
     },
     {
       id: 5,
-      imageSrc: "/images/img-05.jpg",
+      imageSrc: "/images/img-05.png",
       title: "product05",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -71,7 +71,7 @@ export default function Home() {
     },
     {
       id: 6,
-      imageSrc: "/images/img-06.jpg",
+      imageSrc: "/images/img-06.png",
       title: "product06",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -79,7 +79,7 @@ export default function Home() {
     },
     {
       id: 7,
-      imageSrc: "/images/img-07.jpg",
+      imageSrc: "/images/img-07.png",
       title: "product07",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -87,7 +87,7 @@ export default function Home() {
     },
     {
       id: 8,
-      imageSrc: "/images/img-08.jpg",
+      imageSrc: "/images/img-08.png",
       title: "product08",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -95,7 +95,7 @@ export default function Home() {
     },
     {
       id: 9,
-      imageSrc: "/images/img-09.jpg",
+      imageSrc: "/images/img-09.png",
       title: "product09",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -103,7 +103,7 @@ export default function Home() {
     },
     {
       id: 10,
-      imageSrc: "/images/img-10.jpg",
+      imageSrc: "/images/img-10.png",
       title: "product10",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -111,7 +111,7 @@ export default function Home() {
     },
     {
       id: 11,
-      imageSrc: "/images/img-11.jpg",
+      imageSrc: "/images/img-11.png",
       title: "product11",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -119,7 +119,7 @@ export default function Home() {
     },
     {
       id: 12,
-      imageSrc: "/images/img-12.jpg",
+      imageSrc: "/images/img-12.png",
       title: "product12",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -127,7 +127,7 @@ export default function Home() {
     },
     {
       id: 13,
-      imageSrc: "/images/img-13.jpg",
+      imageSrc: "/images/img-13.png",
       title: "product13",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -135,7 +135,7 @@ export default function Home() {
     },
     {
       id: 14,
-      imageSrc: "/images/img-14.jpg",
+      imageSrc: "/images/img-14.png",
       title: "product14",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -143,7 +143,7 @@ export default function Home() {
     },
     {
       id: 15,
-      imageSrc: "/images/img-15.jpg",
+      imageSrc: "/images/img-15.png",
       title: "product15",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -151,7 +151,7 @@ export default function Home() {
     },
     {
       id: 16,
-      imageSrc: "/images/img-16.jpg",
+      imageSrc: "/images/img-16.png",
       title: "product16",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -159,7 +159,7 @@ export default function Home() {
     },
     {
       id: 17,
-      imageSrc: "/images/img-17.jpg",
+      imageSrc: "/images/img-17.png",
       title: "product17",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -167,7 +167,7 @@ export default function Home() {
     },
     {
       id: 18,
-      imageSrc: "/images/img-18.jpg",
+      imageSrc: "/images/img-18.png",
       title: "product18",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -175,7 +175,7 @@ export default function Home() {
     },
     {
       id: 19,
-      imageSrc: "/images/img-19.jpg",
+      imageSrc: "/images/img-19.png",
       title: "product19",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -183,7 +183,7 @@ export default function Home() {
     },
     {
       id: 20,
-      imageSrc: "/images/img-20.jpg",
+      imageSrc: "/images/img-20.png",
       title: "product20",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -191,7 +191,7 @@ export default function Home() {
     },
     {
       id: 21,
-      imageSrc: "/images/img-21.jpg",
+      imageSrc: "/images/img-21.png",
       title: "product21",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -199,7 +199,7 @@ export default function Home() {
     },
     {
       id: 22,
-      imageSrc: "/images/img-22.jpg",
+      imageSrc: "/images/img-22.png",
       title: "product22",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -207,7 +207,7 @@ export default function Home() {
     },
     {
       id: 23,
-      imageSrc: "/images/img-23.jpg",
+      imageSrc: "/images/img-23.png",
       title: "product23",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -215,7 +215,7 @@ export default function Home() {
     },
     {
       id: 24,
-      imageSrc: "/images/img-24.jpg",
+      imageSrc: "/images/img-24.png",
       title: "product24",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -223,7 +223,7 @@ export default function Home() {
     },
     {
       id: 25,
-      imageSrc: "/images/img-25.jpg",
+      imageSrc: "/images/img-25.png",
       title: "product25",
       description: "[what happen] How to create",
       price: "2,500 won",
@@ -236,27 +236,34 @@ export default function Home() {
       id: 1,
       imageSrc: "/images/best-image-01.jpg",
       iconSrc: "/images/producticon-01.png",
-      title: "Happier Soap",
+      title: "issue1",
       description: "How to create mobile-optimized",
     },
     {
       id: 2,
       imageSrc: "/images/best-image-02.jpg",
       iconSrc: "/images/producticon-02.png",
-      title: "Product Bag",
+      title: "issue2",
       description: "How to create mobile-optimized",
     },
     {
       id: 3,
       imageSrc: "/images/best-image-03.jpg",
       iconSrc: "/images/producticon-03.png",
-      title: "Product Boxes",
+      title: "issue3",
+      description: "How to create mobile-optimized",
+    },
+    {
+      id: 4,
+      imageSrc: "/images/best-image-03.jpg",
+      iconSrc: "/images/producticon-03.png",
+      title: "issue3",
       description: "How to create mobile-optimized",
     },
   ];
 
   return (
-    <main className="flex min-h-screen flex-col items-center pt-[7vh]">
+    <main className="flex min-h-dvh flex-col items-center pt-[80px]">
       <Header />
       <div className="flex flex-col w-full">
         <div className="relative w-full h-[200px] md:h-[600px]">
@@ -303,8 +310,9 @@ export default function Home() {
                     src={product.imageSrc}
                     alt={product.title}
                     className="w-full h-auto object-cover"
-                    width={300}
-                    height={300}
+                    width={0}
+                    height={0}
+                    sizes="100vw"
                   />
                   <div className="absolute top-[-2vh] left-[1vh]">
                     <Image
@@ -341,8 +349,9 @@ export default function Home() {
                       src={product.imageSrc}
                       alt={product.title}
                       className="w-full h-[300px] object-cover"
-                      width={90}
-                      height={90}
+                      width={0}
+                      height={0}
+                      sizes="100vw"
                     />
                   </div>
                   <span className="font-bold pt-1 text-sm">
@@ -355,8 +364,9 @@ export default function Home() {
                         src="/images/heart.png"
                         alt={product.title}
                         className="w-full h-auto object-cover pr-2"
-                        width={10}
-                        height={10}
+                        width={0}
+                        height={0}
+                        sizes="100vw"
                       />
                       <span className="text-gray-600 text-sm">
                         {product.interact}
@@ -373,7 +383,7 @@ export default function Home() {
             </button>
           </div>
         </div>
-        <div className="relative flex flex-col justify-center items-center bg-[url('/images/banner-1.jpg')] sm:max-h-screen md:h-screen bg-cover bg-center">
+        <div className="relative flex flex-col justify-center items-center bg-[url('/images/banner-1.jpg')] sm:max-h-dvh md:h-dvh bg-cover bg-center">
           <div className="flex flex-col pt-1 md:pt-[2vh]">
             <div>
               <h3 className="text-center text-xl sm:text-2xl lg:text-4xl font-bold text-[#fcd32a]">
@@ -417,8 +427,48 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="bg-[#fccb05] p-4">
-          <div className="flex flex-col justify-center items-center w-full text-wrap">
+        <div className="relative bg-[#fccb05] pt-14 h-[1000px] w-full">
+          <Image
+            src="/images/news-object-03.png"
+            sizes="100vw"
+            width={0}
+            height={0}
+            alt=""
+            className="absolute inset-0 h-[80px] w-[80px] p-3 left-[95vw] hidden md:block"
+          />
+          <Image
+            src="/images/news-object-02.png"
+            sizes="100vw"
+            width={0}
+            height={0}
+            alt=""
+            className="absolute inset-0 h-[80px] w-[80px] p-3 top-[8vh] left-[95vw] hidden md:block"
+          />
+          <Image
+            src="/images/news-object-07.png"
+            sizes="100vw"
+            width={0}
+            height={0}
+            alt=""
+            className="absolute inset-0 h-[150px] w-[150px] p-3 top-[68vh] left-[15vw] hidden md:block"
+          />
+          <Image
+            src="/images/news-object-05.png"
+            sizes="100vw"
+            width={0}
+            height={0}
+            alt=""
+            className="absolute inset-0 h-[140px] w-[140px] p-3 top-[68vh] left-[75vw] hidden md:block"
+          />
+          <Image
+            src="/images/news-object-04.png"
+            sizes="100vw"
+            width={0}
+            height={0}
+            alt=""
+            className="absolute inset-0 h-[100px] w-[130px] p-3 top-[26vh] left-[20vw] hidden md:block"
+          />
+          <div className="flex flex-col justify-center items-center w-full text-wrap pb-[50px]">
             <div>
               <h3 className="text-center text-xl sm:text-2xl lg:text-4xl font-bold text-black">
                 Happened’s issue
@@ -438,14 +488,108 @@ export default function Home() {
               </button>
             </div>
           </div>
+          <div className="grid grid-cols-1 md:grid-cols-5 h-[200px]">
+            <div className="flex flex-col items-center justify-between bg-[#ff5500] p-[100px]">
+              <span className="text-[24px] font-bold">WHPN ISSUE</span>
+              <Image
+                src="/images/news-img-01.png"
+                sizes="100vw"
+                width={0}
+                height={0}
+                alt=""
+                className="h-[148px] w-[148px]"
+              />
+            </div>
+            <div>
+              <div className="border border-solid border-black border-[2px] flex justify-center text-white font-extrabold bg-black">
+                <p>B BRAND</p>
+              </div>
+              <div>
+                <Image
+                  src="/images/news-img-03.png"
+                  sizes="100vw"
+                  width={0}
+                  height={0}
+                  alt=""
+                  className="h-auto w-full"
+                />
+              </div>
+            </div>
+            <div>
+              <div className="border border-solid border-black border-[2px] flex justify-center text-white font-extrabold bg-black">
+                <p>C BRAND</p>
+              </div>
+              <div>
+                <Image
+                  src="/images/news-img-03.png"
+                  sizes="100vw"
+                  width={0}
+                  height={0}
+                  alt=""
+                  className="h-auto w-full"
+                />
+              </div>
+            </div>
+            <div>
+              <div className="border border-solid border-black border-[2px] flex justify-center text-white font-extrabold bg-[#ff5500]">
+                <p>D BRAND</p>
+              </div>
+              <div>
+                <Image
+                  src="/images/news-img-04.png"
+                  sizes="100vw"
+                  width={0}
+                  height={0}
+                  alt=""
+                  className="h-auto w-full"
+                />
+              </div>
+            </div>
+            <div>
+              <div className="border border-solid border-black border-[2px] flex justify-center text-white font-extrabold bg-black">
+                <p>E BRAND</p>
+              </div>
+              <div>
+                <Image
+                  src="/images/news-img-05.png"
+                  sizes="100vw"
+                  width={0}
+                  height={0}
+                  alt=""
+                  className="h-auto w-full"
+                />
+              </div>
+            </div>
+          </div>
         </div>
         <div className="relative w-full">
           <Image
             src="/images/banner-4.jpg"
-            className="object-cover"
+            className="w-full "
             alt=""
-            fill={true}
+            sizes="100vw"
+            width={0}
+            height={0}
           />
+          <div className="flex flex-col absolute inset-0 justify-center items-center w-full text-wrap top-[-250px] md:top-[-150vh]">
+            <div>
+              <h3 className="text-center text-xl sm:text-2xl lg:text-4xl font-bold text-black">
+                WHAT HAPPENED
+              </h3>
+            </div>
+            <div>
+              <p className="md:mt-4 text-black hidden lg:block md:text-lg text-xs  text-center w-[80vw]">
+                How to create mobile-optimized videos in minutes. Not a
+                designer, every team makes a lot of videos Can be trimmed. Take
+                the first
+              </p>
+            </div>
+            <div className="flex w-full justify-center md:pt-[6vh]">
+              <button className="border border-solid border-black border-[3px] p-2 font-bold hover:bg-black hover:text-white">
+                SEE MORE
+              </button>
+            </div>
+          </div>
         </div>
         <Footer />
       </div>

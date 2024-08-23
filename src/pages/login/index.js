@@ -3,9 +3,9 @@ import Header from "@/components/Header";
 import Image from "next/image";
 const Login = () => {
   return (
-    <div className=" pt-[7vh]">
+    <div className="pt-[80px]">
       <Header />
-      <div className="flex justify-center items-center min-h-screen bg-white ">
+      <div className="flex justify-center items-center min-h-dvh bg-white ">
         <div className="w-full max-w-md p-8 space-y-6">
           <h2 className="text-[46px] font-bold text-center text-[#0565bb]">
             Welcome!
@@ -14,13 +14,19 @@ const Login = () => {
           <form className="space-y-4">
             <input
               type="email"
+              name="email"
+              id="email"
               placeholder="아이디 (이메일)"
               className="w-full px-4 py-2 border focus:outline-none"
+              required
             />
             <input
               type="password"
+              name="password"
+              id="password"
               placeholder="비밀번호"
               className="w-full px-4 py-2 border focus:outline-none"
+              required
             />
             <button
               type="submit"
